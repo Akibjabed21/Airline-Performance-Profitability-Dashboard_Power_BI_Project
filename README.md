@@ -1,0 +1,2 @@
+# Airline-Performance-Profitability-Dashboard_Power_BI_Project
+An interactive Airline Performance &amp; Profitability Dashboard built using Power BI to analyze revenue, profit, passenger traffic, flight operations, and delays across domestic and international routes. The dashboard helps stakeholders monitor airline performance, identify high-performing routes, and understand the impact of delays on profitability.
